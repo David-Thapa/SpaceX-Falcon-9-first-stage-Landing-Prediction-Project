@@ -4,3 +4,5 @@ In this project, I am working as a data scientist in a SpaceY company and my job
 
 # Project Pipelines:
 1. Data collections
+   - Data collection using API
+   - Data collection using web scraping
